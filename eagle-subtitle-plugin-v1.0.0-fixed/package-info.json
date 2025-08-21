@@ -1,0 +1,24 @@
+{
+  "name": "Eagle Subtitle Plugin",
+  "version": "1.0.0",
+  "buildDate": "2025-08-21T09:36:51.107Z",
+  "files": [
+    {
+      "name": "README.md",
+      "size": 5541
+    },
+    {
+      "name": "main.js",
+      "size": 20193
+    },
+    {
+      "name": "manifest.json",
+      "size": 348
+    },
+    {
+      "name": "subtitle.html",
+      "size": 11292
+    }
+  ],
+  "size": 37374
+}

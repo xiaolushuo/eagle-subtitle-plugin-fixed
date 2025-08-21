@@ -1,0 +1,16 @@
+{
+  "name": "Eagle 字幕插件",
+  "version": "1.0.0",
+  "description": "为 Eagle 播放器提供字幕显示功能，支持 SRT、ASS、VTT 格式",
+  "main": "main.js",
+  "author": "xiaolushuo",
+  "license": "MIT",
+  "logo": "icon.png",
+  "features": ["window"],
+  "permissions": [
+    "fileSystem",
+    "item",
+    "player",
+    "window"
+  ]
+}

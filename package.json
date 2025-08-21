@@ -1,0 +1,33 @@
+{
+  "name": "eagle-subtitle-plugin",
+  "version": "1.0.0",
+  "description": "Eagle video subtitle plugin with SRT, ASS, VTT support",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js",
+    "build": "node build.js",
+    "test": "node test.js"
+  },
+  "keywords": [
+    "eagle",
+    "subtitle",
+    "video",
+    "plugin",
+    "srt",
+    "ass",
+    "vtt"
+  ],
+  "author": "xiaolushuo",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaolushuo/eagle-subtitle-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xiaolushuo/eagle-subtitle-plugin/issues"
+  },
+  "homepage": "https://github.com/xiaolushuo/eagle-subtitle-plugin#readme"
+}
